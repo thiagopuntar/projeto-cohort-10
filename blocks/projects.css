@@ -1,0 +1,15 @@
+.projects {
+  padding-inline: 24px;
+}
+
+.projects__image-container {
+  position: relative;
+}
+
+.projects__caption {
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 0;
+  padding: 8px;
+}
