@@ -13,3 +13,19 @@
   top: 0;
   padding: 8px;
 }
+
+.projects__list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  row-gap: 16px;
+}
+
+.projects__item {
+  width: 240px;
+}
+
+.projects__image {
+  width: 100%;
+}
