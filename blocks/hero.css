@@ -1,6 +1,7 @@
 .hero {
   background-image: url(../images/hero.jpeg);
   background-position: center;
+  background-repeat: no-repeat;
   min-height: 720px;
   display: flex;
   justify-content: center;
